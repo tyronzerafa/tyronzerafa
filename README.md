@@ -2,6 +2,11 @@
 
 [![Linkedin: tyron-zerafa](https://img.shields.io/badge/-tyronzerafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyron-zerafa)](https://www.linkedin.com/in/tyron-zerafa)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyronzerafa)](https://github.com/tyronzerafa/github-readme-stats)
+
+<!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tyronzerafa&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **tyronzerafa/tyronzerafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
